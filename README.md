@@ -5,11 +5,11 @@ This project implements an object counting system using the YOLOv8 object detect
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/Greeva48/skill-eclipse-2
 ```
 2. Change directory to the cloned repository:
 ```bash
-cd object-tracking-entry-exit
+cd 
 ```
 3. Install the required dependencies:
 ```bash
